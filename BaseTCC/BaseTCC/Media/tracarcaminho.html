@@ -1,0 +1,140 @@
+<html>
+  <head>
+  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+  <script src="http://js.api.here.com/v3/3.0/mapsjs-core.js"
+  type="text/javascript" charset="utf-8"></script>
+  <script src="http://js.api.here.com/v3/3.0/mapsjs-service.js"
+  type="text/javascript" charset="utf-8"></script>
+  </head>
+  <body>
+  <div id="demo"></div>
+  <div style="width: 640px; height: 480px" id="mapContainer"></div>
+  <script>
+    // Initialize the platform object:
+    var platform = new H.service.Platform({
+    'app_id': '5CD1nOA11wTaaMxYVIXh',
+    'app_code': '5qQm7AFQKUVdwaqv30Qp-A'
+    });
+
+// Retrieve the target element for the map:
+var targetElement = document.getElementById('mapContainer');
+
+// Get the default map types from the platform object:
+var defaultLayers = platform.createDefaultLayers();
+var url_atual = window.location.href;
+
+var auxiliarLat1 = url_atual.indexOf("lat1"); 
+var auxiliarLng1 = url_atual.indexOf("lng1"); 
+var auxiliarLat2 = url_atual.indexOf("lat2"); 
+var auxiliarLng2 = url_atual.indexOf("lng2"); 
+var finalLng1 = url_atual.indexOf("&");
+
+
+var lat1 = url_atual.substring(auxiliarLat1+5, auxiliarLng1);
+var lng1 = url_atual.substring(auxiliarLng1+5, finalLng1);
+
+var lat2 = url_atual.substring(auxiliarLat2+5, auxiliarLng2);
+var lng2 = url_atual.substring(auxiliarLng2+5, url_atual.length);
+
+var coordenadas = Array();
+// Instantiate the map:
+var map = new H.Map(
+  document.getElementById('mapContainer'),
+  defaultLayers.normal.map,
+  {
+  zoom: 3,
+  center: { lat: lat1, lng: lng1 }
+  });
+
+// Create the parameters for the routing request:
+var routingParameters = {
+  // The routing mode:
+  'mode': 'fastest;car',
+  // The start point of the route:
+  'waypoint0': 'geo!'+lat1+','+lng1,
+  // The end point of the route:
+  'waypoint1': 'geo!'+lat2+','+lng2,
+  // To retrieve the shape of the route we choose the route
+  // representation mode 'display'
+  'representation': 'display'
+};
+
+// Define a callback function to process the routing response:
+var onResult = function(result) {
+  var route,
+    routeShape,
+    startPoint,
+    endPoint,
+    linestring;
+  if(result.response.route) {
+  // Pick the first route from the response:
+  route = result.response.route[0];
+  // Pick the route's shape:
+  routeShape = route.shape;
+
+  // Create a linestring to use as a point source for the route line
+  linestring = new H.geo.LineString();
+
+  // Push all the points in the shape into the linestring:
+  routeShape.forEach(function(point) {
+    var parts = point.split(',');
+    linestring.pushLatLngAlt(parts[0], parts[1]);
+    coordenadas.push(parts);
+  });
+
+  var myJSON = JSON.stringify(coordenadas);
+  document.getElementById("demo").innerHTML = myJSON;
+
+  // Retrieve the mapped positions of the requested waypoints:
+  startPoint = route.waypoint[0].mappedPosition;
+  endPoint = route.waypoint[1].mappedPosition;
+
+  // Create a polyline to display the route:
+  var routeLine = new H.map.Polyline(linestring, {
+    style: { strokeColor: 'blue', lineWidth: 10 }
+  });
+
+  // Create a marker for the start point:
+  var startMarker = new H.map.Marker({
+    lat: startPoint.latitude,
+    lng: startPoint.longitude
+  });
+
+  // Create a marker for the end point:
+  var endMarker = new H.map.Marker({
+    lat: endPoint.latitude,
+    lng: endPoint.longitude
+  });
+
+  // Add the route polyline and the two markers to the map:
+  map.addObjects([routeLine, startMarker, endMarker]);
+
+  // Set the map's viewport to make the whole route visible:
+  map.setViewBounds(routeLine.getBounds());
+  }
+};
+
+// Get an instance of the routing service:
+var router = platform.getRoutingService();
+
+// Call calculateRoute() with the routing parameters,
+// the callback and an error callback function (called if a
+// communication error occurs):
+router.calculateRoute(routingParameters, onResult,
+  function(error) {
+    alert(error.message);
+  });
+
+
+  </script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+

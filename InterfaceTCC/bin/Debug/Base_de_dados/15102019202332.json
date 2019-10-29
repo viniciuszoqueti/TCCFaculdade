@@ -1,0 +1,296 @@
+[
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 21264.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 41022.0,
+        "DistanciaCidades": [],
+        "Nome": "Aguaí, SP, Brasil",
+        "Lat": -22.06743,
+        "Long": -46.98018,
+        "Locais": []
+      },
+      {
+        "Distance": 25763.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      },
+      {
+        "Distance": 51263.0,
+        "DistanciaCidades": [],
+        "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+        "Lat": -22.19666,
+        "Long": -46.74937,
+        "Locais": []
+      },
+      {
+        "Distance": 18143.0,
+        "DistanciaCidades": [],
+        "Nome": "São Sebastião da Grama, SP, Brasil",
+        "Lat": -21.71066,
+        "Long": -46.82118,
+        "Locais": []
+      }
+    ],
+    "Nome": "Vargem Grande do Sul, SP, Brasil",
+    "Lat": -21.83587,
+    "Long": -46.89114,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 19937.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 24092.0,
+        "DistanciaCidades": [],
+        "Nome": "Aguaí, SP, Brasil",
+        "Lat": -22.06743,
+        "Long": -46.98018,
+        "Locais": []
+      },
+      {
+        "Distance": 42404.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      },
+      {
+        "Distance": 30873.0,
+        "DistanciaCidades": [],
+        "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+        "Lat": -22.19666,
+        "Long": -46.74937,
+        "Locais": []
+      },
+      {
+        "Distance": 36055.0,
+        "DistanciaCidades": [],
+        "Nome": "São Sebastião da Grama, SP, Brasil",
+        "Lat": -21.71066,
+        "Long": -46.82118,
+        "Locais": []
+      }
+    ],
+    "Nome": "São João da Boa Vista, SP, Brasil",
+    "Lat": -21.9691,
+    "Long": -46.79909,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 40797.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 25389.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 38662.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      },
+      {
+        "Distance": 50086.0,
+        "DistanciaCidades": [],
+        "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+        "Lat": -22.19666,
+        "Long": -46.74937,
+        "Locais": []
+      },
+      {
+        "Distance": 56915.0,
+        "DistanciaCidades": [],
+        "Nome": "São Sebastião da Grama, SP, Brasil",
+        "Lat": -21.71066,
+        "Long": -46.82118,
+        "Locais": []
+      }
+    ],
+    "Nome": "Aguaí, SP, Brasil",
+    "Lat": -22.06743,
+    "Long": -46.98018,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 24735.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 42457.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 38684.0,
+        "DistanciaCidades": [],
+        "Nome": "Aguaí, SP, Brasil",
+        "Lat": -22.06743,
+        "Long": -46.98018,
+        "Locais": []
+      },
+      {
+        "Distance": 98827.0,
+        "DistanciaCidades": [],
+        "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+        "Lat": -22.19666,
+        "Long": -46.74937,
+        "Locais": []
+      },
+      {
+        "Distance": 42749.0,
+        "DistanciaCidades": [],
+        "Nome": "São Sebastião da Grama, SP, Brasil",
+        "Lat": -21.71066,
+        "Long": -46.82118,
+        "Locais": []
+      }
+    ],
+    "Nome": "Casa Branca, SP, Brasil",
+    "Lat": -21.77665,
+    "Long": -47.08444,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 49938.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 30897.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 49893.0,
+        "DistanciaCidades": [],
+        "Nome": "Aguaí, SP, Brasil",
+        "Lat": -22.06743,
+        "Long": -46.98018,
+        "Locais": []
+      },
+      {
+        "Distance": 98944.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      },
+      {
+        "Distance": 66056.0,
+        "DistanciaCidades": [],
+        "Nome": "São Sebastião da Grama, SP, Brasil",
+        "Lat": -21.71066,
+        "Long": -46.82118,
+        "Locais": []
+      }
+    ],
+    "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+    "Lat": -22.19666,
+    "Long": -46.74937,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 18248.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 36277.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 56035.0,
+        "DistanciaCidades": [],
+        "Nome": "Aguaí, SP, Brasil",
+        "Lat": -22.06743,
+        "Long": -46.98018,
+        "Locais": []
+      },
+      {
+        "Distance": 42200.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      },
+      {
+        "Distance": 66276.0,
+        "DistanciaCidades": [],
+        "Nome": "Espírito Santo do Pinhal, SP, Brasil",
+        "Lat": -22.19666,
+        "Long": -46.74937,
+        "Locais": []
+      }
+    ],
+    "Nome": "São Sebastião da Grama, SP, Brasil",
+    "Lat": -21.71066,
+    "Long": -46.82118,
+    "Locais": []
+  }
+]

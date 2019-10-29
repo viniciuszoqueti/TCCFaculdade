@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vinicius\\OneDrive\\Projetos\\Projetos\\TCC\\v2 - Infosiga\\Interface\\BaseTCC\\BaseTCC\\BaseTCC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vinicius\\OneDrive\\Projetos\\Projetos\\TCC\\v2 - Infosiga\\Interface\\BaseTCC\\BaseTCC\\BaseTCC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vinicius\\OneDrive\\Projetos\\Projetos\\TCC\\v2 - Infosiga\\Interface\\BaseTCC\\BaseTCC\\BaseTCC.csproj",
+        "projectName": "BaseTCC",
+        "projectPath": "C:\\Users\\Vinicius\\OneDrive\\Projetos\\Projetos\\TCC\\v2 - Infosiga\\Interface\\BaseTCC\\BaseTCC\\BaseTCC.csproj",
+        "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius\\OneDrive\\Projetos\\Projetos\\TCC\\v2 - Infosiga\\Interface\\BaseTCC\\BaseTCC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "GeneticSharp": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

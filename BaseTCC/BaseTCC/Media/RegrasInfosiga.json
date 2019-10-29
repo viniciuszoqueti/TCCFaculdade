@@ -1,0 +1,38 @@
+[
+  {
+    "TipoAcidente": "CHOQUE",
+    "TipoDeVia": "Rodovias",
+    "Quantidade": 551,
+    "Porcentagem": 10
+  },
+  {
+    "TipoAcidente": "COLISAO",
+    "TipoDeVia": "Vias Municipais",
+    "Quantidade": 1170,
+    "Porcentagem": 21
+  },
+  {
+    "TipoAcidente": "CHOQUE",
+    "TipoDeVia": "Vias Municipais",
+    "Quantidade": 1018,
+    "Porcentagem": 19
+  },
+  {
+    "TipoAcidente": "ATROPELAMENTO",
+    "TipoDeVia": "Vias Municipais",
+    "Quantidade": 940,
+    "Porcentagem": 17
+  },
+  {
+    "TipoAcidente": "ATROPELAMENTO",
+    "TipoDeVia": "Rodovias",
+    "Quantidade": 583,
+    "Porcentagem": 11
+  },
+  {
+    "TipoAcidente": "COLISAO",
+    "TipoDeVia": "Rodovias",
+    "Quantidade": 1197,
+    "Porcentagem": 22
+  }
+]

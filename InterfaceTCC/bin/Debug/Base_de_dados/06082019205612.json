@@ -1,0 +1,134 @@
+[
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 52232.0,
+        "DistanciaCidades": [],
+        "Nome": "Limeira, SP, Brasil",
+        "Lat": -22.56797,
+        "Long": -47.40833,
+        "Locais": []
+      },
+      {
+        "Distance": 59030.0,
+        "DistanciaCidades": [],
+        "Nome": "Campinas, SP, Brasil",
+        "Lat": -22.90902,
+        "Long": -47.06461,
+        "Locais": []
+      },
+      {
+        "Distance": 66153.0,
+        "DistanciaCidades": [],
+        "Nome": "Paulínia, SP, Brasil",
+        "Lat": -22.76422,
+        "Long": -47.15114,
+        "Locais": []
+      }
+    ],
+    "Nome": "Mogi Mirim, SP, Brasil",
+    "Lat": -22.43203,
+    "Long": -46.95808,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 53285.0,
+        "DistanciaCidades": [],
+        "Nome": "Mogi Mirim, SP, Brasil",
+        "Lat": -22.43203,
+        "Long": -46.95808,
+        "Locais": []
+      },
+      {
+        "Distance": 56016.0,
+        "DistanciaCidades": [],
+        "Nome": "Campinas, SP, Brasil",
+        "Lat": -22.90902,
+        "Long": -47.06461,
+        "Locais": []
+      },
+      {
+        "Distance": 47129.0,
+        "DistanciaCidades": [],
+        "Nome": "Paulínia, SP, Brasil",
+        "Lat": -22.76422,
+        "Long": -47.15114,
+        "Locais": []
+      }
+    ],
+    "Nome": "Limeira, SP, Brasil",
+    "Lat": -22.56797,
+    "Long": -47.40833,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 58708.0,
+        "DistanciaCidades": [],
+        "Nome": "Mogi Mirim, SP, Brasil",
+        "Lat": -22.43203,
+        "Long": -46.95808,
+        "Locais": []
+      },
+      {
+        "Distance": 57052.0,
+        "DistanciaCidades": [],
+        "Nome": "Limeira, SP, Brasil",
+        "Lat": -22.56797,
+        "Long": -47.40833,
+        "Locais": []
+      },
+      {
+        "Distance": 21029.0,
+        "DistanciaCidades": [],
+        "Nome": "Paulínia, SP, Brasil",
+        "Lat": -22.76422,
+        "Long": -47.15114,
+        "Locais": []
+      }
+    ],
+    "Nome": "Campinas, SP, Brasil",
+    "Lat": -22.90902,
+    "Long": -47.06461,
+    "Locais": []
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 67826.0,
+        "DistanciaCidades": [],
+        "Nome": "Mogi Mirim, SP, Brasil",
+        "Lat": -22.43203,
+        "Long": -46.95808,
+        "Locais": []
+      },
+      {
+        "Distance": 47947.0,
+        "DistanciaCidades": [],
+        "Nome": "Limeira, SP, Brasil",
+        "Lat": -22.56797,
+        "Long": -47.40833,
+        "Locais": []
+      },
+      {
+        "Distance": 23404.0,
+        "DistanciaCidades": [],
+        "Nome": "Campinas, SP, Brasil",
+        "Lat": -22.90902,
+        "Long": -47.06461,
+        "Locais": []
+      }
+    ],
+    "Nome": "Paulínia, SP, Brasil",
+    "Lat": -22.76422,
+    "Long": -47.15114,
+    "Locais": []
+  }
+]

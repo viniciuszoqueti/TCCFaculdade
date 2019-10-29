@@ -1,0 +1,36 @@
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.deps.json
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csprojAssemblyReference.cache
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.deps.json
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csprojAssemblyReference.cache
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfoInputs.cache
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfo.cs
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\luis_\Desktop\tcc\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.deps.json
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csprojAssemblyReference.cache
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfo.cs
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\Downloads\codigo\codigo\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.deps.json
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\bin\Debug\netstandard2.0\BaseTCC.pdb
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csprojAssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.dll
+C:\Users\Vinicius\OneDrive\Projetos\Projetos\TCC\v2 - Infosiga\Interface\BaseTCC\BaseTCC\obj\Debug\netstandard2.0\BaseTCC.pdb

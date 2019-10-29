@@ -1,0 +1,278 @@
+[
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 21264.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      },
+      {
+        "Distance": 25763.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      }
+    ],
+    "Nome": "Vargem Grande do Sul, SP, Brasil",
+    "Lat": -21.83587,
+    "Long": -46.89114,
+    "Locais": [
+      {
+        "DistanciaReferencia": 1004.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 1594.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Dona Maria Cândida, 16 - Vila Santa Terezinha, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.8392868,
+            "Long": -46.9004822
+          },
+          {
+            "DistanciaReferencia": 946.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Henrique Falconi, 2 - Vargem Grande Do Sul, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.83661,
+            "Long": -46.8918037
+          }
+        ],
+        "Nome": "R. Cel. Lúcio, 654-758 - Centro, Vargem Grande do Sul - SP, 13880-000",
+        "Lat": -21.8302383,
+        "Long": -46.8909035
+      },
+      {
+        "DistanciaReferencia": 1352.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 2143.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Cel. Lúcio, 654-758 - Centro, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.8302383,
+            "Long": -46.8909035
+          },
+          {
+            "DistanciaReferencia": 1696.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Henrique Falconi, 2 - Vargem Grande Do Sul, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.83661,
+            "Long": -46.8918037
+          }
+        ],
+        "Nome": "R. Dona Maria Cândida, 16 - Vila Santa Terezinha, Vargem Grande do Sul - SP, 13880-000",
+        "Lat": -21.8392868,
+        "Long": -46.9004822
+      },
+      {
+        "DistanciaReferencia": 153.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 1167.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Cel. Lúcio, 654-758 - Centro, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.8302383,
+            "Long": -46.8909035
+          },
+          {
+            "DistanciaReferencia": 1281.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Dona Maria Cândida, 16 - Vila Santa Terezinha, Vargem Grande do Sul - SP, 13880-000",
+            "Lat": -21.8392868,
+            "Long": -46.9004822
+          }
+        ],
+        "Nome": "R. Henrique Falconi, 2 - Vargem Grande Do Sul, Vargem Grande do Sul - SP, 13880-000",
+        "Lat": -21.83661,
+        "Long": -46.8918037
+      }
+    ]
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 19937.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 42404.0,
+        "DistanciaCidades": [],
+        "Nome": "Casa Branca, SP, Brasil",
+        "Lat": -21.77665,
+        "Long": -47.08444,
+        "Locais": []
+      }
+    ],
+    "Nome": "São João da Boa Vista, SP, Brasil",
+    "Lat": -21.9691,
+    "Long": -46.79909,
+    "Locais": [
+      {
+        "DistanciaReferencia": 2764.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 2494.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Gen. Osório, 558 - Sao Joao Da Boa Vista, São João da Boa Vista - SP, 13870-431",
+            "Lat": -21.9701843,
+            "Long": -46.793335
+          },
+          {
+            "DistanciaReferencia": 2826.0,
+            "DistanciaLocais": [],
+            "Nome": "Rua Capitão José Jacinto de Andrade, 795 - Rosário, São João da Boa Vista - SP, 13870-334",
+            "Lat": -21.9646835,
+            "Long": -46.7919
+          }
+        ],
+        "Nome": "R. Santa Maria, 307-245 - Vila Brasil, São João da Boa Vista - SP, 13875-029",
+        "Lat": -21.98105,
+        "Long": -46.78192
+      },
+      {
+        "DistanciaReferencia": 947.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 2331.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Santa Maria, 307-245 - Vila Brasil, São João da Boa Vista - SP, 13875-029",
+            "Lat": -21.98105,
+            "Long": -46.78192
+          },
+          {
+            "DistanciaReferencia": 1070.0,
+            "DistanciaLocais": [],
+            "Nome": "Rua Capitão José Jacinto de Andrade, 795 - Rosário, São João da Boa Vista - SP, 13870-334",
+            "Lat": -21.9646835,
+            "Long": -46.7919
+          }
+        ],
+        "Nome": "R. Gen. Osório, 558 - Sao Joao Da Boa Vista, São João da Boa Vista - SP, 13870-431",
+        "Lat": -21.9701843,
+        "Long": -46.793335
+      },
+      {
+        "DistanciaReferencia": 937.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 2458.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Santa Maria, 307-245 - Vila Brasil, São João da Boa Vista - SP, 13875-029",
+            "Lat": -21.98105,
+            "Long": -46.78192
+          },
+          {
+            "DistanciaReferencia": 881.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Gen. Osório, 558 - Sao Joao Da Boa Vista, São João da Boa Vista - SP, 13870-431",
+            "Lat": -21.9701843,
+            "Long": -46.793335
+          }
+        ],
+        "Nome": "Rua Capitão José Jacinto de Andrade, 795 - Rosário, São João da Boa Vista - SP, 13870-334",
+        "Lat": -21.9646835,
+        "Long": -46.7919
+      }
+    ]
+  },
+  {
+    "Distance": 0.0,
+    "DistanciaCidades": [
+      {
+        "Distance": 24735.0,
+        "DistanciaCidades": [],
+        "Nome": "Vargem Grande do Sul, SP, Brasil",
+        "Lat": -21.83587,
+        "Long": -46.89114,
+        "Locais": []
+      },
+      {
+        "Distance": 42457.0,
+        "DistanciaCidades": [],
+        "Nome": "São João da Boa Vista, SP, Brasil",
+        "Lat": -21.9691,
+        "Long": -46.79909,
+        "Locais": []
+      }
+    ],
+    "Nome": "Casa Branca, SP, Brasil",
+    "Lat": -21.77665,
+    "Long": -47.08444,
+    "Locais": [
+      {
+        "DistanciaReferencia": 407.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 582.0,
+            "DistanciaLocais": [],
+            "Nome": "Rua Narcíso Marquês, 290 - Jardim Paulista, Casa Branca - SP, 13700-000",
+            "Lat": -21.7716,
+            "Long": -47.08858
+          },
+          {
+            "DistanciaReferencia": 754.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Paulista, 121-77 - Conj Hab Prof Sebastiao Faria Zimbres, Casa Branca - SP, 13700-000",
+            "Lat": -21.7693443,
+            "Long": -47.0841446
+          }
+        ],
+        "Nome": "Praça Barão de Mogi Guaçu, 165 - Centro, Casa Branca - SP, 13700-000",
+        "Lat": -21.7740421,
+        "Long": -47.08597
+      },
+      {
+        "DistanciaReferencia": 804.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 379.0,
+            "DistanciaLocais": [],
+            "Nome": "Praça Barão de Mogi Guaçu, 165 - Centro, Casa Branca - SP, 13700-000",
+            "Lat": -21.7740421,
+            "Long": -47.08597
+          },
+          {
+            "DistanciaReferencia": 630.0,
+            "DistanciaLocais": [],
+            "Nome": "R. Paulista, 121-77 - Conj Hab Prof Sebastiao Faria Zimbres, Casa Branca - SP, 13700-000",
+            "Lat": -21.7693443,
+            "Long": -47.0841446
+          }
+        ],
+        "Nome": "Rua Narcíso Marquês, 290 - Jardim Paulista, Casa Branca - SP, 13700-000",
+        "Lat": -21.7716,
+        "Long": -47.08858
+      },
+      {
+        "DistanciaReferencia": 1164.0,
+        "DistanciaLocais": [
+          {
+            "DistanciaReferencia": 768.0,
+            "DistanciaLocais": [],
+            "Nome": "Praça Barão de Mogi Guaçu, 165 - Centro, Casa Branca - SP, 13700-000",
+            "Lat": -21.7740421,
+            "Long": -47.08597
+          },
+          {
+            "DistanciaReferencia": 638.0,
+            "DistanciaLocais": [],
+            "Nome": "Rua Narcíso Marquês, 290 - Jardim Paulista, Casa Branca - SP, 13700-000",
+            "Lat": -21.7716,
+            "Long": -47.08858
+          }
+        ],
+        "Nome": "R. Paulista, 121-77 - Conj Hab Prof Sebastiao Faria Zimbres, Casa Branca - SP, 13700-000",
+        "Lat": -21.7693443,
+        "Long": -47.0841446
+      }
+    ]
+  }
+]
